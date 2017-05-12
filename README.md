@@ -12,4 +12,5 @@ Attendance Check based BLE(Bluetooth Low Energy) using Raspberry Pi
 - Find the Friend
 - School Shuttle Bus
 
-## Wiki Page
+## Wiki Page :book:
+[Wiki Page](https://github.com/Gachon-SLB/SmartCampus/wiki)
