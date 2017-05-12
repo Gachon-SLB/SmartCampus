@@ -1,9 +1,7 @@
 # SmartCampus
 ## Gachon SLB
-#### : Location based Android application	using Bluetooth beacon in Gachon University
+#### : Location based Android application	using Bluetooth beacon in Gachon University      
 
-
-      
 ***
 
 ### **Brief Description**
